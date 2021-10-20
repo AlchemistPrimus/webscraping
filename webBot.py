@@ -52,7 +52,7 @@ class Crawler:
                 content.print()
 
 crawler=Crawler()
-
+"""Simple routes for testing"""
 siteData = [
 ['O\'Reilly Media', 'http://oreilly.com',
 'h1', 'section#product-description'],
